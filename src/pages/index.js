@@ -9,9 +9,9 @@ import {
   popupSelectors,
 } from "../utils/constants.js";
 import { renderLoading } from "../utils/utils.js";
-import Api from "../components/api.js";
+import Api from "../components/Api.js";
 import Section from "../components/Section.js";
-import Card from "../components/card.js";
+import Card from "../components/Card.js";
 import UserInfo from "../components/UserInfo.js";
 import PopupWithImage from "../components/PopupWithImage.js";
 import PopupWithForm from "../components/PopupWithForm.js";
